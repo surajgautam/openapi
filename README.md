@@ -3,6 +3,6 @@ A demo project to generate contracts for clients and servers. The server contrac
 
 
 # Steps:
-1)     git clone ....
+1)     git clone https://github.com/surajgautam/openapi.git
 2)     cd openapi 
 3)     mvn clean install
